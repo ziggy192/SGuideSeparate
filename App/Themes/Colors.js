@@ -1,5 +1,5 @@
 const colors = {
-  background: '#1F0808',
+  background: '#f3f3f3',
   clear: 'rgba(0,0,0,0)',
   facebook: '#3b5998',
   transparent: 'rgba(0,0,0,0)',
@@ -21,6 +21,7 @@ const colors = {
   eggplant: '#251a34',
   border: '#483F53',
   banner: '#5F3E63',
+  blue: '#2196F3',
   text: '#E0D7E5'
 }
 
